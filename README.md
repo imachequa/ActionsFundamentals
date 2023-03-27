@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+Marcell Update to check actions 
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
